@@ -12,6 +12,9 @@ the flexibilty to change either hour with a new task or event seems extremely us
 Screenshots
 
 <--- START PAGE --->
+
+![broswer](https://user-images.githubusercontent.com/59030105/116618139-ad78aa00-a90c-11eb-81f0-3715b0508b4b.png)
+
 ![mobile](https://user-images.githubusercontent.com/59030105/116617270-a3a27700-a90b-11eb-9aca-c7d3195a51b6.png)
 
 Tech/framework used
