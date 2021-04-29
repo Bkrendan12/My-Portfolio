@@ -2,53 +2,45 @@
 
 Project title
 
-Work-Day-Scheduler
+My Web Developing Profile
 
-Motivation
+Link to project repository:
 
-I wanted to make a scheduling application that would serve as a day-to-day planner where you can set and forget a daily routine from 9am to 5am. Giving the user
-the flexibilty to change either hour with a new task or event seems extremely useful and there isnt too much else to it. I use it myself and love it, so maybe you will too.
-
-Screenshots
-
-<--- START PAGE --->
-
-![broswer](https://user-images.githubusercontent.com/59030105/116618139-ad78aa00-a90c-11eb-81f0-3715b0508b4b.png)
-
-![mobile](https://user-images.githubusercontent.com/59030105/116617270-a3a27700-a90b-11eb-9aca-c7d3195a51b6.png)
-
-Tech/framework used
-
-This webpage was created using basic html, css, Javascript, moment() and jQuery.
-
-Built with
-
---index.html --style.css --script.js --jQuery
-
-How to use?
-
-This is a simple day planner for anyone.
-
-When you open the application, you will see the title and a clock displaying the current time from the year, down to the counting seconds.
-
-Next, you will see a single container with hour blocks from 9am to 5pm, which is a typical full work day.
-
-You are able to click on each text block and enter in your event or plan for that specific hour and save it with the button to the right of each hour block.
-
-If you close out of the day planner and reopen it, you wont lose any information, which is my favorite part of the application.
+[Concert-Cloud-Repo](https://github.com/Bkrendan12/My-Portfolio)
 
 Link to webpage:
 
-[Daily-planner](https://bkrendan12.github.io/Daily-Schedule-planner/)
+[Concert-Cloud](https://bkrendan12.github.io/My-Portfolio/)
 
-Desired additions: I'd like to add a more visually pleasing style to the page, but for a basic day-to-day planner, it's extremely clean and useful.
+Tech/framework used
 
-Contribute:
+This webpage was created using basic html, css, Javascript, API and jQuery.
 
-If you would like to do the same, youre welcome to use this as starter code.
+SCREENSHOTS
+
+Browser version
+
+![broswer](https://user-images.githubusercontent.com/59030105/116618139-ad78aa00-a90c-11eb-81f0-3715b0508b4b.png)
+
+Mobile version
+
+![mobile](https://user-images.githubusercontent.com/59030105/116617270-a3a27700-a90b-11eb-9aca-c7d3195a51b6.png)
+
+Motivation
+
+As anyone in the search of future employment opportunities, I wanted a simple and polished
+portfolio application where you can see info about myself as a web developer. In addition, a description and link to my personal github hosting all my projects. A slider showcasing my three favorite projects I created which are mobile friendly. A section about a hobby I have outside
+of web development. at the bottom of the page I have my phone number, Linkdn, github and email.
+
+CONTACT INFORMATION:
+
+        Brendan Kurylo
+        603-818-0578
+        bkrendan12@gmail.com
+        Rollinsford, NH
 
 Credits include:
 
-All work created and edited by Brendan Kurylo.
+All work created by Brendan Kurylo.
 
 UNH Bootcamp © Brendan Kurylo
