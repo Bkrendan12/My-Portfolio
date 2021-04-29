@@ -1,209 +1,51 @@
-# Portfolio-Brendan-Kurylo
+# Daily-Schedule-planner
 
-# Unit 08 Project 1 Homework: Professional Materials
+Project title
 
-​
-Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
-​
-If you are opting out of career services, this is _still a required assignment_. Part of being a web developer means being a part of a community. Having a place to share your projects is _necessary_ if you're applying for jobs, but it's also _critical_ on your journey as a developer.
-​
+Work-Day-Scheduler
 
-## Requirements
+Motivation
 
-​
+I wanted to make a scheduling application that would serve as a day-to-day planner where you can set and forget a daily routine from 9am to 5am. Giving the user
+the flexibilty to change either hour with a new task or event seems extremely useful and there isnt too much else to it. I use it myself and love it, so maybe you will too.
 
-<!-- - Submit an updated portfolio featuring Project 1 and two exemplary homework assignments. -->
+Screenshots
 
-​
+<--- START PAGE --->
+![My-Portfolio](<(https://user-images.githubusercontent.com/59030105/116616923-41497680-a90b-11eb-9ba7-9454295d3d36.png)>)
 
-<!-- - Submit an updated GitHub profile with pinned repositories featuring Project 1 and two exemplary assignments. -->
+Tech/framework used
 
-​
+This webpage was created using basic html, css, Javascript, moment() and jQuery.
 
-<!-- - Submit an updated resume -->
+Built with
 
-​
+--index.html --style.css --script.js --jQuery
 
-<!-- - Submit an updated LinkedIn profile -->
+How to use?
 
-​
+This is a simple day planner for anyone.
 
-## Instructions
+When you open the application, you will see the title and a clock displaying the current time from the year, down to the counting seconds.
 
-​
+Next, you will see a single container with hour blocks from 9am to 5pm, which is a typical full work day.
 
-1. [Updated Portfolio](#updated-portfolio)
-2. [GitHub Profile](#updated-github-profile)
-3. [Updated Resume](#updated-resume)
-4. [Updated LinkedIn](#updated-linkedin)
-   ​
+You are able to click on each text block and enter in your event or plan for that specific hour and save it with the button to the right of each hour block.
 
-## Updated Portfolio
+If you close out of the day planner and reopen it, you wont lose any information, which is my favorite part of the application.
 
-​
-💁 Need help updating your Portfolio? Check out the [Career Services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
-​
-Your updated portfolio should:
-​
+Link to webpage:
 
-<!-- 1. Display your full name, email, and phone number -->
+[Daily-planner](https://bkrendan12.github.io/Daily-Schedule-planner/)
 
-<!-- 2. Have links to your GitHub profile and LinkedIn profile -->
+Desired additions: I'd like to add a more visually pleasing style to the page, but for a basic day-to-day planner, it's extremely clean and useful.
 
-<!-- 3. Have a link to a downloadable PDF of your resume -->
+Contribute:
 
-<!-- ​ 4. Display at least 2 examples of student work from either deployed projects or homeworks. For each project, make sure you have the following: -->
+If you would like to do the same, youre welcome to use this as starter code.
 
-​
+Credits include:
 
-   <!-- _ Project title -->
+All work created and edited by Brendan Kurylo.
 
-​
-
-   <!-- _ Link to the deployed version -->
-
-​
-
-   <!-- _ Link to the GitHub repository -->
-
-​
-\_ Screenshot of the deployed application
-​
-
-<!-- 5. Have a polished, mobile-responsive user interface. -->
-
-​
-
-### Design
-
-​
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
-​
-
-<!-- - Mobile-first design -->
-
-​
-
-<!-- - Choose a color palette for your site so it doesn't just look like
-  the default bootstrap theme or an unstyled HTML site. -->
-
-​
-
-  <!-- - Make sure the font size is large enough to read, and that the colors don't cause eye strain. -->
-
-​
-
-## Updated GitHub Profile
-
-​
-Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward.
-​
-Your GitHub profile must contain at least the following items:
-​
-
-<!-- 1. Professional profile picture -->
-
-​
-
-   <!-- - A photo or an image other than the default Github identicon. (a semi-professional to professional photo or an avatar photo are preferred) -->
-
-     ​
-
-<!-- 2. Biography -->
-
-​
-
-<!-- 3. Your current location -->
-
-​
-
-<!-- 4. Email address -->
-
-​
-
-<!-- 5. Link to your deployed portfolio -->
-
-​
-
-<!-- 6. At least 2 pinned repositories: -->
-
-​
-
-   <!-- - Navigate to [GitHub](https://github.com/) and go to your profile. -->
-
-     ​
-
-   <!-- - Click "Customize your pins" -->
-
-     ​
-
-   <!-- - Click the checkboxes for your project and 2-3 homework assignments that you would like to share -->
-
-     ​
-
-<!-- 7. Follow a few of your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code. -->
-
-​
-
-<!-- 8. README files. Every pinned project should contain a README file with:
-   ​
-   - Title of app
-   - Live link to deployed app
-   - List of technologies used
-   - 1-2 sentences explaining what the app is
-   - 2-3 Screenshots / gifs of the app
-   - License (usually MIT)
-   - Contact information for you and any collaborators -->
-
-     ​
-
-9. Commit history. Every pinned repository should have at least 20 commits.
-   ​
-
-### 3. Updated Resume
-
-​
-💁 Need help building a resume? Check out the [Career Services milestone resources](https://mycareerspot.org/resume).
-​
-
-<!-- Submit a clear, concise, and compelling resume, tailored to the type of job you’re looking for.
-​
-Your resume should include:
-  ​
-- a technical skills section, with all programming languages and technologies listed -->
-
-​
-
-<!-- - 3 of your strongest projects/homework assignments with brief description, languages used, and URL -->
-
-​
-
-### 4. Updated LinkedIn
-
-​
-
-<!-- 💁 Need help updating your LinkedIn? Check out the [Career Services milestone resources for online presence](https://mycareerspot.org/onlinepresence).
-​
-Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio. -->
-
-​
-
-### ⭐ 5. For Job-Seeking Students (BONUS)
-
-​
-If you are a job-seeking student, then getting yourself marked as employer-ready is an important step to take because you'll get:
-​
-
-- added to our employer referral list, where we'll help match you with employers for interviews
-  ​
-- exclusive access to workshops for employer-ready students
-  ​
-- a statistically higher success rate in your job search
-  ​
-  So if you're going to be looking for a job at the end of your boot camp, go ahead and submit these updated items to your Career Materials Advisor (formerly Profile Coach) via BootCampSpot.
-  ​
-
----
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+UNH Bootcamp © Brendan Kurylo
