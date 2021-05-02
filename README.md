@@ -20,17 +20,15 @@ SCREENSHOTS
 
 Browser version
 
-![broswer](https://user-images.githubusercontent.com/59030105/116618139-ad78aa00-a90c-11eb-81f0-3715b0508b4b.png)
+![Browser-screenshot](https://user-images.githubusercontent.com/59030105/116800124-35f17900-aacc-11eb-9969-9e81dcc44107.png)
 
 Mobile version
 
-![mobile](https://user-images.githubusercontent.com/59030105/116617270-a3a27700-a90b-11eb-9aca-c7d3195a51b6.png)
+![image](https://user-images.githubusercontent.com/59030105/116800140-53264780-aacc-11eb-8397-09eddbcee16b.png)
 
 Motivation
 
-As anyone in the search of future employment opportunities, I wanted a simple and polished
-portfolio application where you can see info about myself as a web developer. In addition, a description and link to my personal github hosting all my projects. A slider showcasing my three favorite projects I created which are mobile friendly. A section about a hobby I have outside
-of web development. at the bottom of the page I have my phone number, Linkdn, github and email.
+As anyone in the search for future employment opportunities, I wanted a simple and polished portfolio where you can see info about myself as a web developer. In addition, a description and link to my personal github hosting all my projects. A slider showcasing my three favorite projects I created which are mobile friendly. A section about a hobby I have outside of web development. And at the bottom of the page I have my phone number, Linkdn, github and email. A simple and easy all in one application where you can get to know me all around as a web developer. Feel free to reach out and say hello!
 
 CONTACT INFORMATION:
 
