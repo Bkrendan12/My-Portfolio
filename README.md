@@ -6,11 +6,11 @@ My Web Developing Profile
 
 Link to project repository:
 
-[Concert-Cloud-Repo](https://github.com/Bkrendan12/My-Portfolio)
+[My-Portfolio-Repo](https://github.com/Bkrendan12/My-Portfolio)
 
 Link to webpage:
 
-[Concert-Cloud](https://bkrendan12.github.io/My-Portfolio/)
+[My-Portfolio](https://bkrendan12.github.io/My-Portfolio/)
 
 Tech/framework used
 
